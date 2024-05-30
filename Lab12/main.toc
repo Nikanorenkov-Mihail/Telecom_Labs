@@ -1,0 +1,7 @@
+\babel@toc {russian}{}\relax 
+\contentsline {section}{\numberline {1}Постановка задачи:}{2}{}%
+\contentsline {section}{\numberline {2}Ход работы. Передача сигнала:}{2}{}%
+\contentsline {section}{\numberline {3}Добавление искажений канала:}{5}{}%
+\contentsline {section}{\numberline {4}Восстановление синхронизации:}{6}{}%
+\contentsline {section}{\numberline {5}Фазовая и точная частотная коррекция:}{7}{}%
+\contentsline {section}{\numberline {6}Декодирование:}{8}{}%
